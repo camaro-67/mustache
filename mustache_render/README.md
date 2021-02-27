@@ -1,1 +1,1 @@
-load both file with localost
+load both file with localhost or in vanilla 
