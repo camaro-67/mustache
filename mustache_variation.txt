@@ -1,0 +1,6 @@
+{{raiden}} <br>
+{{{galaga}}} <br>
+{{#lemmings}} <br>
+{{^lemmings}} <br>
+{{$blockvar}} <br>
+{{< template_name}} ... {{/template_name}} <br>
