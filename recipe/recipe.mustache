@@ -1,0 +1,15 @@
+<h3>{{recipename}}</h3>
+<p>{{description}}</p>
+<h4>Ingredients</h4>
+<ol>
+{{#ingredients}}
+<li>{{.}}</li>
+{{/ingredients}}
+</ol>
+<h4>Steps</h4>
+<ol>
+{{#steps}}
+<li>{{{.}}}</li>
+{{/steps}}
+</ol>
+{{ > ratethisrecipe }}
